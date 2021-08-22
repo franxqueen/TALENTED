@@ -2,9 +2,6 @@
   <b>†hê talented bot 🇮🇳</b>
 </h1>
 
-<h1 align="center">
-  <b>†hê talented bot 🇮🇳</b>
-</h1>
 
 <h6 align="center">
   <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ talentedɮօt ⚡</b>
@@ -55,7 +52,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `HELLBOT_SESSION`  =  Get this by using Repl.it [talented_session]
+- `TALENTED_SESSION`  =  Get this by using Repl.it [replit.com/@franxqueen/TALENTED-SESSION]
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
